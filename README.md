@@ -15,4 +15,4 @@ npm install --registry=https://registry.npm.taobao.org
 # 启动服务
 npm run dev
 
-yarn run dev
+yarn run dev# vue-component
